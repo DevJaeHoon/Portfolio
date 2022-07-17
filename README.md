@@ -8,12 +8,12 @@
 * Netlify
 
  
- > `Netlify 란? : `
+ > Netlify 란? :
  정적 웹 사이트(js/html/css)를 빌드/배포/호스팅 까지 자동화하여 배포해주는 툴, 유지보수 또한 용이하다.
 
  
 ## 실행방법
-[배포된 사이트](https://jaehoon-portfolio.netlify.app/)에 접속한다.
+* [배포된 사이트](https://jaehoon-portfolio.netlify.app/)에 접속한다.
 
 ## 배운점
 * BootStrap을 통해 이미 구현된 다양한 기능들을 사용할 수 있다.
