@@ -18,13 +18,12 @@
 
 .header_list{
     display: flex;
-    margin-right: 2%;
 }
 
 .header_list li{
     display: flex;
     align-items: center;
-    margin: 3px 30px;
+    margin: 3px 20px;
 } 
 
 .white_text{
